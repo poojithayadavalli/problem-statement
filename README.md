@@ -25,6 +25,7 @@ Case 1:
 
 Input: s = "(abcd)"
 Output: "dcba"
+
 Case 2:
 
 Input: s = "(iv(morf)ug)"
