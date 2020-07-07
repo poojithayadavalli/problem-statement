@@ -14,7 +14,7 @@ It's guaranteed that all parentheses are balanced.
 
 Example:
 
-Input: s = "(mo(ivug)rf)"
+Input:"(mo(ivug)rf)"                                                                                                                      
 Output: "fromguvi"
 Explanation: The substring "guvi" is reversed first, then the whole string is reversed.
 
@@ -24,19 +24,23 @@ Testcases:
 Case 1:
 
 Input: s = "(abcd)"
+
 Output: "dcba"
 
 Case 2:
 
-Input: s = "(iv(morf)ug)"
+ Input: s = "(iv(morf)ug)" 
+ 
 Output: "fromguvi"
 
 Case 3:
 
 Input: s = "(gni(rts(ol))gn)"
+
 Output: "longstring"
 
 Case 4:
 
 Input: s = "a(bcdefghijkl(mno)p)q"
+
 Output: "apmnolkjihgfedcbq"
