@@ -1,4 +1,4 @@
-# problem-statement
+# problem-statement #Stack
 
 Ram has a disability of reading text in reverse order.He found a paper which was torn into pieces he want to read the content present in that paper.
 So he found all pieces of paper and read the content in each piece in reverse order because of his disability.So he is asking you for help. You are given
